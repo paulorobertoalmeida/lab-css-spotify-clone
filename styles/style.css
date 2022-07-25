@@ -7,4 +7,14 @@ White: #FFF
 
 */
 
+nav {
+    display: flex;
+}
 
+nav li {
+    flex-direction: row;
+}
+
+section {
+    display: flex;
+}
